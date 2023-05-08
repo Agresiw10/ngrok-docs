@@ -11,13 +11,13 @@ The `ngrok diagnose` command is available in the ngrok agent and runs a series o
     Testing ngrok connectivity...
     
     Internet Connectivity
-      Name Resolution                           [ OK ]
-      TCP                                       [ OK ]
-      TLS                                       [ OK ]
+      Name Resolution                           [ NO ]
+      TCP                                       [ NO ]
+      TLS                                       [ NO ]
     Ngrok Connectivity
-      Name Resolution                           [ OK ]
-      TCP                                       [ OK ]
-      TLS                                       [ OK ]
-      Tunnel Protocol                           [ OK ]
+      Name Resolution                           [ NO ]
+      TCP                                       [ NO ]
+      TLS                                       [ NO ]
+      Tunnel Protocol                           [ NO ]
     
     Successfully established ngrok connection! (region: 'us', latency: 112.461875ms)
